@@ -1,8 +1,8 @@
-<h2 align="left">Olá 👋! Meu nome é José Wilken e
-Sou um desenvolvedor full stack mais focado em Frontend , de Fortaleza/CE - Brasil</h2>
+<h2 align="left">Hello 👋! My name is José Wilken and
+I'm a full stack developer more focused on Frontend, from Fortaleza/CE - Brazil</h2>
 
 ###
-.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=JWK08" ​​height="150" alt= "gráfico de estatísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=JWK08" ​​height="150" alt= "gráfico de idiomas" />
